@@ -1,0 +1,4314 @@
+{
+  "type": "FeatureCollection",
+  "name": "Towers",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR0775",
+        "Latitude": 33.68039,
+        "Longitude": 73.27845,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.27845, 33.68039] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY2200",
+        "Latitude": 33.71862,
+        "Longitude": 73.25159,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.25159, 33.71862] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY0018",
+        "Latitude": 33.781595,
+        "Longitude": 73.249507,
+        "Tehsil": "MURREE TEHSIL",
+        "District": "RAWALPINDI",
+        "Province": "PUNJAB",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.249507, 33.781595] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5380",
+        "Latitude": 33.68636,
+        "Longitude": 73.24654,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.24654, 33.68636] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY1740",
+        "Latitude": 33.56363,
+        "Longitude": 73.24375,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.24375, 33.56363] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY3611",
+        "Latitude": 33.71165,
+        "Longitude": 73.24312,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.24312, 33.71165] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR4755",
+        "Latitude": 33.63848,
+        "Longitude": 73.23423,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.23423, 33.63848] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR3427",
+        "Latitude": 33.61931,
+        "Longitude": 73.23271,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.23271, 33.61931] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR0691",
+        "Latitude": 33.65174,
+        "Longitude": 73.22472,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.22472, 33.65174] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4932",
+        "Latitude": 33.6812,
+        "Longitude": 73.22241,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.22241, 33.6812] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR0724",
+        "Latitude": 33.69262,
+        "Longitude": 73.21971,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.21971, 33.69262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY3630",
+        "Latitude": 33.75861,
+        "Longitude": 73.21866,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.21866, 33.75861] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR1317",
+        "Latitude": 33.6483,
+        "Longitude": 73.21706112,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.21706112, 33.6483] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY3622",
+        "Latitude": 33.73616,
+        "Longitude": 73.214,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.214, 33.73616] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR4375",
+        "Latitude": 33.638968,
+        "Longitude": 73.211343,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.211343, 33.638968] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR0937",
+        "Latitude": 33.6723,
+        "Longitude": 73.20979,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.20979, 33.6723] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1821",
+        "Latitude": 33.73736,
+        "Longitude": 73.20641,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.20641, 33.73736] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5773",
+        "Latitude": 33.75088,
+        "Longitude": 73.20629,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.20629, 33.75088] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY3605",
+        "Latitude": 33.55057,
+        "Longitude": 73.20475,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.20475, 33.55057] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR0686",
+        "Latitude": 33.64275,
+        "Longitude": 73.20222,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.20222, 33.64275] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0473",
+        "Latitude": 33.57035,
+        "Longitude": 73.19985,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.19985, 33.57035] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1820",
+        "Latitude": 33.74202,
+        "Longitude": 73.19908,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.19908, 33.74202] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4982",
+        "Latitude": 33.57396,
+        "Longitude": 73.198953,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.198953, 33.57396] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4350",
+        "Latitude": 33.65258,
+        "Longitude": 73.19771,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.19771, 33.65258] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY0289",
+        "Latitude": 33.50209,
+        "Longitude": 73.19542,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.19542, 33.50209] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0205",
+        "Latitude": 33.7376,
+        "Longitude": 73.19225,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.19225, 33.7376] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR4622",
+        "Latitude": 33.63623,
+        "Longitude": 73.18839,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18839, 33.63623] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1871",
+        "Latitude": 33.74893,
+        "Longitude": 73.18636,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18636, 33.74893] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB2633",
+        "Latitude": 33.73583,
+        "Longitude": 73.18608,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18608, 33.73583] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5146",
+        "Latitude": 33.64486,
+        "Longitude": 73.18349,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18349, 33.64486] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0244",
+        "Latitude": 33.74216238,
+        "Longitude": 73.18346601,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18346601, 33.74216238] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP7259",
+        "Latitude": 33.52219,
+        "Longitude": 73.18186,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18186, 33.52219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP1467",
+        "Latitude": 33.54485,
+        "Longitude": 73.18111945,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18111945, 33.54485] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP2590",
+        "Latitude": 33.51113,
+        "Longitude": 73.18045,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.18045, 33.51113] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1822",
+        "Latitude": 33.73856,
+        "Longitude": 73.17817,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17817, 33.73856] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4692",
+        "Latitude": 33.68115,
+        "Longitude": 73.17794,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17794, 33.68115] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3626",
+        "Latitude": 33.73113,
+        "Longitude": 73.17733,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17733, 33.73113] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4305",
+        "Latitude": 33.57105,
+        "Longitude": 73.17659,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17659, 33.57105] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP3242",
+        "Latitude": 33.59168,
+        "Longitude": 73.17589,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17589, 33.59168] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP5060",
+        "Latitude": 33.52266,
+        "Longitude": 73.17313,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17313, 33.52266] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP5047",
+        "Latitude": 33.55453,
+        "Longitude": 73.17304,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17304, 33.55453] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3501",
+        "Latitude": 33.74649,
+        "Longitude": 73.17298,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17298, 33.74649] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5390",
+        "Latitude": 33.74081,
+        "Longitude": 73.17156,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17156, 33.74081] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5169",
+        "Latitude": 33.72715,
+        "Longitude": 73.17074,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17074, 33.72715] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4414",
+        "Latitude": 33.61735,
+        "Longitude": 73.17011,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.17011, 33.61735] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0580",
+        "Latitude": 33.5336,
+        "Longitude": 73.1697,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.1697, 33.5336] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5071",
+        "Latitude": 33.736,
+        "Longitude": 73.16958,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16958, 33.736] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4362",
+        "Latitude": 33.71921,
+        "Longitude": 73.16753,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16753, 33.71921] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0474",
+        "Latitude": 33.5184,
+        "Longitude": 73.16698,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16698, 33.5184] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4775",
+        "Latitude": 33.6078,
+        "Longitude": 73.16669,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16669, 33.6078] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB2970",
+        "Latitude": 33.6402,
+        "Longitude": 73.16658889,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16658889, 33.6402] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4087",
+        "Latitude": 33.53655,
+        "Longitude": 73.16576,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16576, 33.53655] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0576",
+        "Latitude": 33.64353,
+        "Longitude": 73.16361,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16361, 33.64353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0354",
+        "Latitude": 33.53074,
+        "Longitude": 73.16192,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16192, 33.53074] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1054",
+        "Latitude": 33.69195,
+        "Longitude": 73.16056,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.16056, 33.69195] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4366",
+        "Latitude": 33.58734,
+        "Longitude": 73.15822,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15822, 33.58734] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4347",
+        "Latitude": 33.64191,
+        "Longitude": 73.156,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.156, 33.64191] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0343",
+        "Latitude": 33.68101,
+        "Longitude": 73.15584,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15584, 33.68101] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0719",
+        "Latitude": 33.6647,
+        "Longitude": 73.1554,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.1554, 33.6647] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP1147",
+        "Latitude": 33.52052,
+        "Longitude": 73.15493,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15493, 33.52052] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR3182",
+        "Latitude": 33.47484,
+        "Longitude": 73.15401,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": null,
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15401, 33.47484] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP5346",
+        "Latitude": 33.528322,
+        "Longitude": 73.153592,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.153592, 33.528322] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4627",
+        "Latitude": 33.62295,
+        "Longitude": 73.15319,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15319, 33.62295] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0564",
+        "Latitude": 33.70866,
+        "Longitude": 73.15288,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15288, 33.70866] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP2062",
+        "Latitude": 33.62854,
+        "Longitude": 73.15026,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.15026, 33.62854] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0419",
+        "Latitude": 33.53149,
+        "Longitude": 73.14862,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.14862, 33.53149] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4346",
+        "Latitude": 33.61262,
+        "Longitude": 73.14713,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.14713, 33.61262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1360",
+        "Latitude": 33.67392,
+        "Longitude": 73.14625,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.14625, 33.67392] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1474",
+        "Latitude": 33.72728,
+        "Longitude": 73.14305,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.14305, 33.72728] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0515",
+        "Latitude": 33.67267,
+        "Longitude": 73.14062,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.14062, 33.67267] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0560",
+        "Latitude": 33.62069,
+        "Longitude": 73.14052,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.14052, 33.62069] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4365",
+        "Latitude": 33.60753,
+        "Longitude": 73.13955,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.13955, 33.60753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1547",
+        "Latitude": 33.65923,
+        "Longitude": 73.13742,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.13742, 33.65923] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1461",
+        "Latitude": 33.74345,
+        "Longitude": 73.13606,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.13606, 33.74345] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP2613",
+        "Latitude": 33.60933056,
+        "Longitude": 73.13341112000001,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.13341112, 33.60933056] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4703",
+        "Latitude": 33.52557,
+        "Longitude": 73.13186,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.13186, 33.52557] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1162",
+        "Latitude": 33.63451112,
+        "Longitude": 73.13158889,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.13158889, 33.63451112] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0603",
+        "Latitude": 33.63353,
+        "Longitude": 73.12765,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.12765, 33.63353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1189",
+        "Latitude": 33.73209566,
+        "Longitude": 73.12654172000001,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.12654172, 33.73209566] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP5344",
+        "Latitude": 33.493854,
+        "Longitude": 73.125788,
+        "Tehsil": "RAWALPINDI TEHSIL",
+        "District": "RAWALPINDI",
+        "Province": "PUNJAB",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.125788, 33.493854] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4349",
+        "Latitude": 33.6399,
+        "Longitude": 73.1253,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.1253, 33.6399] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0152",
+        "Latitude": 33.61974,
+        "Longitude": 73.12385,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.12385, 33.61974] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP1815",
+        "Latitude": 33.63101945,
+        "Longitude": 73.12118889,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.12118889, 33.63101945] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0368",
+        "Latitude": 33.64466112,
+        "Longitude": 73.12056945,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.12056945, 33.64466112] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3623",
+        "Latitude": 33.72853,
+        "Longitude": 73.11968,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.11968, 33.72853] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP2089",
+        "Latitude": 33.5213,
+        "Longitude": 73.1195,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.1195, 33.5213] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP3594",
+        "Latitude": 33.51345,
+        "Longitude": 73.11868,
+        "Tehsil": "RAWALPINDI TEHSIL",
+        "District": "RAWALPINDI",
+        "Province": "PUNJAB",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.11868, 33.51345] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3654",
+        "Latitude": 33.68457,
+        "Longitude": 73.1181,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.1181, 33.68457] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0339",
+        "Latitude": 33.62983,
+        "Longitude": 73.11602,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.11602, 33.62983] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0066",
+        "Latitude": 33.63845,
+        "Longitude": 73.11536945,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.11536945, 33.63845] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP1356",
+        "Latitude": 33.63843,
+        "Longitude": 73.11077,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.11077, 33.63843] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1469",
+        "Latitude": 33.74296,
+        "Longitude": 73.10822,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10822, 33.74296] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3653",
+        "Latitude": 33.6923,
+        "Longitude": 73.1074,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.1074, 33.6923] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB2169",
+        "Latitude": 33.71039,
+        "Longitude": 73.10725,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10725, 33.71039] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1090",
+        "Latitude": 33.70633,
+        "Longitude": 73.10702,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10702, 33.70633] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP7171",
+        "Latitude": 33.5009,
+        "Longitude": 73.10605,
+        "Tehsil": "RAWALPINDI TEHSIL",
+        "District": "RAWALPINDI",
+        "Province": "PUNJAB",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10605, 33.5009] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4364",
+        "Latitude": 33.65388,
+        "Longitude": 73.106,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.106, 33.65388] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3639",
+        "Latitude": 33.72114,
+        "Longitude": 73.10575,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10575, 33.72114] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1534",
+        "Latitude": 33.67038,
+        "Longitude": 73.10484,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10484, 33.67038] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1475",
+        "Latitude": 33.71807,
+        "Longitude": 73.10104,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.10104, 33.71807] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1814",
+        "Latitude": 33.66063,
+        "Longitude": 73.09737,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09737, 33.66063] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3634",
+        "Latitude": 33.72116,
+        "Longitude": 73.09724,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09724, 33.72116] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3640",
+        "Latitude": 33.71266,
+        "Longitude": 73.09723,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09723, 33.71266] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1463",
+        "Latitude": 33.67829,
+        "Longitude": 73.09539,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09539, 33.67829] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0005",
+        "Latitude": 33.72708,
+        "Longitude": 73.09279,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09279, 33.72708] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1139",
+        "Latitude": 33.71732,
+        "Longitude": 73.09252,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09252, 33.71732] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3631",
+        "Latitude": 33.70963,
+        "Longitude": 73.09074,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09074, 33.70963] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3652",
+        "Latitude": 33.73212,
+        "Longitude": 73.09063,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.09063, 33.73212] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0414",
+        "Latitude": 33.7413,
+        "Longitude": 73.0904,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0904, 33.7413] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0201",
+        "Latitude": 33.72605,
+        "Longitude": 73.08824,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08824, 33.72605] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3651",
+        "Latitude": 33.74158,
+        "Longitude": 73.08489,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08489, 33.74158] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1195",
+        "Latitude": 33.72952,
+        "Longitude": 73.08487,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08487, 33.72952] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3647",
+        "Latitude": 33.72419,
+        "Longitude": 73.08485,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08485, 33.72419] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3670",
+        "Latitude": 33.70616,
+        "Longitude": 73.08434,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08434, 33.70616] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0386",
+        "Latitude": 33.71732,
+        "Longitude": 73.08401,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08401, 33.71732] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0232",
+        "Latitude": 33.70925,
+        "Longitude": 73.08352,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08352, 33.70925] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0588",
+        "Latitude": 33.72262,
+        "Longitude": 73.08221,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.08221, 33.72262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4078",
+        "Latitude": 33.730809,
+        "Longitude": 73.078493,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.078493, 33.730809] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3650",
+        "Latitude": 33.7199,
+        "Longitude": 73.07711,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07711, 33.7199] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1145",
+        "Latitude": 33.7141,
+        "Longitude": 73.0763,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0763, 33.7141] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4403",
+        "Latitude": 33.7402,
+        "Longitude": 73.0752,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0752, 33.7402] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0147",
+        "Latitude": 33.67146,
+        "Longitude": 73.07505,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07505, 33.67146] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1826",
+        "Latitude": 33.71029,
+        "Longitude": 73.07474,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07474, 33.71029] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB2661",
+        "Latitude": 33.66701,
+        "Longitude": 73.0744,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0744, 33.66701] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0081",
+        "Latitude": 33.70532,
+        "Longitude": 73.07422,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07422, 33.70532] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3655",
+        "Latitude": 33.69029,
+        "Longitude": 73.07347,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07347, 33.69029] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1622",
+        "Latitude": 33.66196,
+        "Longitude": 73.07317,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07317, 33.66196] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3649",
+        "Latitude": 33.71778,
+        "Longitude": 73.07314,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07314, 33.71778] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1048",
+        "Latitude": 33.67855,
+        "Longitude": 73.0718,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0718, 33.67855] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3641",
+        "Latitude": 33.7307,
+        "Longitude": 73.0704,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0704, 33.7307] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3627",
+        "Latitude": 33.72415,
+        "Longitude": 73.07038,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.07038, 33.72415] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0492",
+        "Latitude": 33.70542,
+        "Longitude": 73.06856,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06856, 33.70542] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0699",
+        "Latitude": 33.69714,
+        "Longitude": 73.06668,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06668, 33.69714] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0512",
+        "Latitude": 33.66097,
+        "Longitude": 73.06667,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06667, 33.66097] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0099",
+        "Latitude": 33.66828,
+        "Longitude": 73.06616,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06616, 33.66828] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3669",
+        "Latitude": 33.71434,
+        "Longitude": 73.06598,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06598, 33.71434] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0413",
+        "Latitude": 33.67788,
+        "Longitude": 73.06367,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06367, 33.67788] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1167",
+        "Latitude": 33.71753513,
+        "Longitude": 73.06359213,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06359213, 33.71753513] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP4739",
+        "Latitude": 33.65094,
+        "Longitude": 73.06341,
+        "Tehsil": "RAWALPINDI TEHSIL",
+        "District": "RAWALPINDI",
+        "Province": "PUNJAB",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06341, 33.65094] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5707",
+        "Latitude": 33.67282,
+        "Longitude": 73.06328,
+        "Tehsil": "ISLAMABAD TEHSIL",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06328, 33.67282] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1361",
+        "Latitude": 33.68098,
+        "Longitude": 73.06256,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06256, 33.68098] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0149",
+        "Latitude": 33.71201,
+        "Longitude": 73.06205,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06205, 33.71201] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RUR0689",
+        "Latitude": 33.76943,
+        "Longitude": 73.06092,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06092, 33.76943] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0133",
+        "Latitude": 33.7224,
+        "Longitude": 73.06009,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.06009, 33.7224] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1177",
+        "Latitude": 33.72897,
+        "Longitude": 73.0595,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0595, 33.72897] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1170",
+        "Latitude": 33.70595,
+        "Longitude": 73.05884,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05884, 33.70595] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0323",
+        "Latitude": 33.6831,
+        "Longitude": 73.05878,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05878, 33.6831] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3656",
+        "Latitude": 33.69286,
+        "Longitude": 73.05869,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05869, 33.69286] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1142",
+        "Latitude": 33.71594,
+        "Longitude": 73.05837,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05837, 33.71594] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0582",
+        "Latitude": 33.66611,
+        "Longitude": 73.05819,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05819, 33.66611] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3667",
+        "Latitude": 33.71007,
+        "Longitude": 73.05762,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05762, 33.71007] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3668",
+        "Latitude": 33.72157,
+        "Longitude": 73.05727,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05727, 33.72157] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1166",
+        "Latitude": 33.69488,
+        "Longitude": 73.0571,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0571, 33.69488] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0352",
+        "Latitude": 33.6572,
+        "Longitude": 73.05663,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05663, 33.6572] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0648",
+        "Latitude": 33.70917,
+        "Longitude": 73.05568,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05568, 33.70917] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0562",
+        "Latitude": 33.71506,
+        "Longitude": 73.05498,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05498, 33.71506] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0674",
+        "Latitude": 33.74192,
+        "Longitude": 73.05412,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05412, 33.74192] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1468",
+        "Latitude": 33.66753,
+        "Longitude": 73.05291,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05291, 33.66753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0477",
+        "Latitude": 33.703,
+        "Longitude": 73.0525,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0525, 33.703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1111",
+        "Latitude": 33.65047,
+        "Longitude": 73.05227,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05227, 33.65047] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4283",
+        "Latitude": 33.721941,
+        "Longitude": 73.051776,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.051776, 33.721941] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0104",
+        "Latitude": 33.68778,
+        "Longitude": 73.05047,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.05047, 33.68778] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3920",
+        "Latitude": 33.69798,
+        "Longitude": 73.0496,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0496, 33.69798] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1153",
+        "Latitude": 33.66069,
+        "Longitude": 73.04817,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04817, 33.66069] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5654",
+        "Latitude": 33.727578,
+        "Longitude": 73.04761555,
+        "Tehsil": "ISLAMABAD TEHSIL",
+        "District": "FEDERAL CAPITAL TERRITORY",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04761555, 33.727578] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0416",
+        "Latitude": 33.66899,
+        "Longitude": 73.04748,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04748, 33.66899] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1761",
+        "Latitude": 33.64731,
+        "Longitude": 73.04712,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04712, 33.64731] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3097",
+        "Latitude": 33.72157,
+        "Longitude": 73.04682,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04682, 33.72157] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3665",
+        "Latitude": 33.70774,
+        "Longitude": 73.04547,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04547, 33.70774] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0100",
+        "Latitude": 33.68385,
+        "Longitude": 73.04529,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04529, 33.68385] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1181",
+        "Latitude": 33.69334,
+        "Longitude": 73.04523,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04523, 33.69334] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1016",
+        "Latitude": 33.71049,
+        "Longitude": 73.0445,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0445, 33.71049] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0362",
+        "Latitude": 33.65353,
+        "Longitude": 73.04432,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04432, 33.65353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1183",
+        "Latitude": 33.71663,
+        "Longitude": 73.04415,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04415, 33.71663] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0321",
+        "Latitude": 33.64585,
+        "Longitude": 73.04185,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04185, 33.64585] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3663",
+        "Latitude": 33.71113,
+        "Longitude": 73.04141,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.04141, 33.71113] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1466",
+        "Latitude": 33.6968,
+        "Longitude": 73.0414,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0414, 33.6968] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1149",
+        "Latitude": 33.64138,
+        "Longitude": 73.03925,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03925, 33.64138] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1157",
+        "Latitude": 33.6815,
+        "Longitude": 73.03894,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03894, 33.6815] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1169",
+        "Latitude": 33.68758,
+        "Longitude": 73.03873,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03873, 33.68758] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB8487",
+        "Latitude": 33.69218,
+        "Longitude": 73.03846,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03846, 33.69218] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3659",
+        "Latitude": 33.72351,
+        "Longitude": 73.03799,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03799, 33.72351] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0597",
+        "Latitude": 33.7064,
+        "Longitude": 73.03718,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03718, 33.7064] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3658",
+        "Latitude": 33.70357,
+        "Longitude": 73.03701,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03701, 33.70357] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4936",
+        "Latitude": 33.656342,
+        "Longitude": 73.036527,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.036527, 33.656342] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1179",
+        "Latitude": 33.69563,
+        "Longitude": 73.03567,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03567, 33.69563] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0377",
+        "Latitude": 33.64588,
+        "Longitude": 73.03548,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03548, 33.64588] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1154",
+        "Latitude": 33.65186,
+        "Longitude": 73.03435,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03435, 33.65186] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3662",
+        "Latitude": 33.7146,
+        "Longitude": 73.03342,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03342, 33.7146] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0168",
+        "Latitude": 33.6883,
+        "Longitude": 73.03251,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03251, 33.6883] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0969",
+        "Latitude": 33.7189,
+        "Longitude": 73.03054,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03054, 33.7189] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0600",
+        "Latitude": 33.63768,
+        "Longitude": 73.03034,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03034, 33.63768] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3106",
+        "Latitude": 33.69242,
+        "Longitude": 73.0302,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0302, 33.69242] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5048",
+        "Latitude": 33.67795,
+        "Longitude": 73.02983,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02983, 33.67795] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1222",
+        "Latitude": 33.71011,
+        "Longitude": 73.02964,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02964, 33.71011] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0605",
+        "Latitude": 33.63642,
+        "Longitude": 73.02759,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02759, 33.63642] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0644",
+        "Latitude": 33.688816,
+        "Longitude": 73.027131,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.027131, 33.688816] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1196",
+        "Latitude": 33.65051,
+        "Longitude": 73.02585,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02585, 33.65051] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1180",
+        "Latitude": 33.68345,
+        "Longitude": 73.02584,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02584, 33.68345] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0639",
+        "Latitude": 33.67787,
+        "Longitude": 73.02342,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02342, 33.67787] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3661",
+        "Latitude": 33.71711,
+        "Longitude": 73.02322,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02322, 33.71711] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1168",
+        "Latitude": 33.68794,
+        "Longitude": 73.02295,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02295, 33.68794] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1202",
+        "Latitude": 33.72085,
+        "Longitude": 73.02188,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02188, 33.72085] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0643",
+        "Latitude": 33.68415,
+        "Longitude": 73.02015,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.02015, 33.68415] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3105",
+        "Latitude": 33.71,
+        "Longitude": 73.018,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.018, 33.71] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3943",
+        "Latitude": 33.65151,
+        "Longitude": 73.0168,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0168, 33.65151] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3660",
+        "Latitude": 33.71384,
+        "Longitude": 73.0157,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0157, 33.71384] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0167",
+        "Latitude": 33.67577,
+        "Longitude": 73.01439,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.01439, 33.67577] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1391",
+        "Latitude": 33.64806,
+        "Longitude": 73.01419,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.01419, 33.64806] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0589",
+        "Latitude": 33.69301,
+        "Longitude": 73.01405,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.01405, 33.69301] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0583",
+        "Latitude": 33.66934,
+        "Longitude": 73.0136,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.0136, 33.66934] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3664",
+        "Latitude": 33.72,
+        "Longitude": 73.01107,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.01107, 33.72] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0013",
+        "Latitude": 33.69952,
+        "Longitude": 73.01034,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.01034, 33.69952] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0338",
+        "Latitude": 33.69864,
+        "Longitude": 73.00692,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.00692, 33.69864] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0636",
+        "Latitude": 33.68083,
+        "Longitude": 73.00616,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.00616, 33.68083] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0329",
+        "Latitude": 33.68679,
+        "Longitude": 73.00571,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.00571, 33.68679] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1606",
+        "Latitude": 33.66543,
+        "Longitude": 73.00553,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [73.00553, 33.66543] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0617",
+        "Latitude": 33.69485,
+        "Longitude": 72.99944,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99944, 33.69485] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0381",
+        "Latitude": 33.69037,
+        "Longitude": 72.99897,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99897, 33.69037] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0330",
+        "Latitude": 33.66935,
+        "Longitude": 72.99847,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99847, 33.66935] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0328",
+        "Latitude": 33.67583,
+        "Longitude": 72.99842,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99842, 33.67583] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0646",
+        "Latitude": 33.66175,
+        "Longitude": 72.99805,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99805, 33.66175] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4478",
+        "Latitude": 33.641958,
+        "Longitude": 72.997693,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.997693, 33.641958] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1813",
+        "Latitude": 33.68346,
+        "Longitude": 72.99589,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99589, 33.68346] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0503",
+        "Latitude": 33.65943,
+        "Longitude": 72.99448,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99448, 33.65943] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5245",
+        "Latitude": 33.68858,
+        "Longitude": 72.99215,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99215, 33.68858] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0622",
+        "Latitude": 33.67196,
+        "Longitude": 72.99125,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.99125, 33.67196] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0103",
+        "Latitude": 33.68194,
+        "Longitude": 72.98915,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98915, 33.68194] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0680",
+        "Latitude": 33.64288,
+        "Longitude": 72.98904,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98904, 33.64288] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1141",
+        "Latitude": 33.68876,
+        "Longitude": 72.9872,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.9872, 33.68876] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1459",
+        "Latitude": 33.67578,
+        "Longitude": 72.98532,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98532, 33.67578] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1823",
+        "Latitude": 33.68305,
+        "Longitude": 72.98218,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98218, 33.68305] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3954",
+        "Latitude": 33.64698,
+        "Longitude": 72.98196,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98196, 33.64698] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0188",
+        "Latitude": 33.69674,
+        "Longitude": 72.98177,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98177, 33.69674] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1910",
+        "Latitude": 33.66625,
+        "Longitude": 72.98167,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.98167, 33.66625] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0282",
+        "Latitude": 33.698119,
+        "Longitude": 72.980155,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.980155, 33.698119] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1602",
+        "Latitude": 33.70335,
+        "Longitude": 72.9791,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.9791, 33.70335] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1817",
+        "Latitude": 33.69492,
+        "Longitude": 72.97755,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.97755, 33.69492] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4466",
+        "Latitude": 33.6353,
+        "Longitude": 72.9769,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.9769, 33.6353] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0327",
+        "Latitude": 33.68898,
+        "Longitude": 72.97566,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.97566, 33.68898] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "RWP0165",
+        "Latitude": 33.62068056,
+        "Longitude": 72.97295,
+        "Tehsil": "RAWALPINDI TEHSIL",
+        "District": "RAWALPINDI",
+        "Province": "PUNJAB",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.97295, 33.62068056] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0113",
+        "Latitude": 33.69824,
+        "Longitude": 72.97123,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.97123, 33.69824] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1066",
+        "Latitude": 33.64165,
+        "Longitude": 72.96729,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.96729, 33.64165] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4419",
+        "Latitude": 33.60652,
+        "Longitude": 72.96345,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.96345, 33.60652] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0679",
+        "Latitude": 33.65545,
+        "Longitude": 72.963381,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.963381, 33.65545] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4001",
+        "Latitude": 33.65019,
+        "Longitude": 72.96288,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.96288, 33.65019] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4944",
+        "Latitude": 33.64424,
+        "Longitude": 72.95923,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.95923, 33.64424] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3987",
+        "Latitude": 33.65136,
+        "Longitude": 72.95631,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.95631, 33.65136] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3107",
+        "Latitude": 33.64278,
+        "Longitude": 72.95253,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.95253, 33.64278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4199",
+        "Latitude": 33.70127,
+        "Longitude": 72.94965,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.94965, 33.70127] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0206",
+        "Latitude": 33.67439,
+        "Longitude": 72.9485,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.9485, 33.67439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB1585",
+        "Latitude": 33.62513,
+        "Longitude": 72.94636,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.94636, 33.62513] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0322",
+        "Latitude": 33.6291,
+        "Longitude": 72.93808,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.93808, 33.6291] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4372",
+        "Latitude": 33.61734,
+        "Longitude": 72.93723,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.93723, 33.61734] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB2944",
+        "Latitude": 33.63598,
+        "Longitude": 72.93652,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.93652, 33.63598] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0376",
+        "Latitude": 33.69682,
+        "Longitude": 72.93544,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.93544, 33.69682] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0991",
+        "Latitude": 33.631399,
+        "Longitude": 72.923708,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.923708, 33.631399] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0720",
+        "Latitude": 33.63374,
+        "Longitude": 72.91946,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.91946, 33.63374] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4438",
+        "Latitude": 33.71144,
+        "Longitude": 72.91944,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.91944, 33.71144] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5705",
+        "Latitude": 33.639928,
+        "Longitude": 72.918148,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.918148, 33.639928] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB3955",
+        "Latitude": 33.61664,
+        "Longitude": 72.91379,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.91379, 33.61664] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0031",
+        "Latitude": 33.64974,
+        "Longitude": 72.90871,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.90871, 33.64974] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB4029",
+        "Latitude": 33.669967,
+        "Longitude": 72.899511,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.899511, 33.669967] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5049",
+        "Latitude": 33.64084,
+        "Longitude": 72.8984,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.8984, 33.64084] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY1870",
+        "Latitude": 33.65976,
+        "Longitude": 72.89497,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.89497, 33.65976] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB0378",
+        "Latitude": 33.63109,
+        "Longitude": 72.88008,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.88008, 33.63109] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY5736",
+        "Latitude": 33.67042,
+        "Longitude": 72.86612,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.86612, 33.67042] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "ISB5657",
+        "Latitude": 33.658738,
+        "Longitude": 72.856698,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": null,
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.856698, 33.658738] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Id": "HWY1750",
+        "Latitude": 33.67554,
+        "Longitude": 72.85576,
+        "Tehsil": "ISLAMABAD",
+        "District": "ISLAMABAD",
+        "Province": "ICT",
+        "2G": "2G",
+        "3G": "3G",
+        "4G": "4G",
+        "Frequency": "Jazz"
+      },
+      "geometry": { "type": "Point", "coordinates": [72.85576, 33.67554] }
+    }
+  ]
+}
